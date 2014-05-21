@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resourses/greenBtnOff.png</file>
+        <file>resourses/yellowBtnOn.png</file>
+        <file>resourses/redBtnOff.png</file>
+        <file>resourses/redBtnOn.png</file>
+        <file>resourses/greenBtnOn.png</file>
+        <file>resourses/zummer.png</file>
+        <file>resourses/selector_block.png</file>
+        <file>resourses/selector_rabota.png</file>
+    </qresource>
+</RCC>
